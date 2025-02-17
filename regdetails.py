@@ -10,7 +10,7 @@ import textwrap
 from database import get_class_details, DatabaseError
 
 
-
+MAX_LINE_LENGTH = 72
 
 def parse_args():
    """Parse command line arguments.
@@ -64,19 +64,32 @@ def format_details(details):
        print('Dept and Number: ' + f'{dept} {coursenum}')
    # Print area and title
    print('Area:', area if area else '')
-   print('Title:', title)
+   wrapped_title = textwrap.fill(
+       title,
+       width=MAX_LINE_LENGTH,
+       initial_indent='Title: ',
+       subsequent_indent='   '
+   )
+   print(wrapped_title)
 
 
    # Print description
    if descrip:
-       wrapped_desc = textwrap.wrap(descrip, width=72)
-       print('Description: ' + '\n'.join(wrapped_desc))
-
+       wrapped_desc = textwrap.fill(
+           descrip,
+           width=MAX_LINE_LENGTH,
+           initial_indent='Description: ',
+           subsequent_indent='   ')
+       print(wrapped_desc)
 
    # Print prerequisites
    if prereqs:
-       wrapped_prereqs = textwrap.wrap(prereqs, width=72)
-       print('Prerequisites: ' + '\n'.join(wrapped_prereqs))
+       wrapped_prereqs = textwrap.fill(
+           prereqs,
+           width=MAX_LINE_LENGTH,
+       initial_indent='Prerequisites: ',
+       subsequent_indent='   ')
+       print(wrapped_prereqs)
 
 
    # Print professors
@@ -85,7 +98,6 @@ def format_details(details):
 
 
    return True
-
 
 
 

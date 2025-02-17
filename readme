@@ -1,0 +1,30 @@
+Name1: Akuei Johnson Ateny Akuei
+NetID: aa3867
+
+Name2: Percy Amoani
+NetID: pa6741
+
+Akuei Johnson Ateny Akuei's Contribution:
+At the start of the assignment, my teammate and I discussed our overall approach, breaking down the tasks to ensure an
+efficient workflow. I took primary responsibility for designing and implementing the database module, focusing on
+structuring the database schema and integrating it with our Python application using SQLite. Once the module was
+complete, I provided a detailed explanation to my teammate, ensuring a mutual understanding of its functionality. We
+then worked together to debug any issues that arose, refining the queries and optimizing performance. Additionally,
+I contributed to testing and refining our implementation of regdetails.py, helping to ensure that it met the assignment
+requirements.
+
+Percy Amoani's Contribution:
+After gaining an understanding of the database module, my teammate, Percy Amoani, took the lead in implementing
+regoverviews.py, which involved retrieving and structuring relevant data from the database for user-friendly output. He
+explained his approach to me, and together we worked through debugging sessions to refine the logic and ensure seamless
+integration with the database. For the final component, regdetails.py, we collaborated closely, coding side by side to
+complete the implementation efficiently. Afterward, we worked together to review and edit the test programs, ensuring our
+solution was well-tested and met all specified requirements.
+
+While working on the assignment, we adhered to the course policies regarding external help. We did not receive direct
+assistance from other students or outside individuals. However, we made use of the official course materials, including
+lecture notes and discussion board posts, to clarify certain concepts and address implementation challenges.
+
+We spent about 10 hrs working on it.
+
+We learned so much from the assignment, especially how to integrate SQLite into Python.

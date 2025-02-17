@@ -1,0 +1,281 @@
+------------------------------------------------------------------------
+python regdetails.py 8321
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9032
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 8293
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9977
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9012
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 10188
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 8745
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9156
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 8901
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9234
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9567
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 
+usage: regdetails.py [-h] classid
+regdetails.py: error: the following arguments are required: classid
+Exit status = 2
+------------------------------------------------------------------------
+python regdetails.py 8321 9032
+usage: regdetails.py [-h] classid
+regdetails.py: error: unrecognized arguments: 9032
+Exit status = 2
+------------------------------------------------------------------------
+python regdetails.py abc123
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 9034
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py -h
+usage: regdetails.py [-h] classid
+
+Registrar application: show details about a class
+
+positional arguments:
+  classid     the id of the class whose details should be shown
+
+options:
+  -h, --help  show this help message and exit
+Exit status = 0
+------------------------------------------------------------------------
+python regdetails.py --help
+usage: regdetails.py [-h] classid
+
+Registrar application: show details about a class
+
+positional arguments:
+  classid     the id of the class whose details should be shown
+
+options:
+  -h, --help  show this help message and exit
+Exit status = 0
+------------------------------------------------------------------------
+python regdetails.py -8321
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 8321.5
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 0
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 99999
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py  8321
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1
+------------------------------------------------------------------------
+python regdetails.py 8321 
+Traceback (most recent call last):
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 125, in <module>
+    main()
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 112, in main
+    if not format_details(details):
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akueijohnsonateny/Desktop/COS333/reg1/regdetails.py", line 38, in format_details
+    print(MAX_LINE_LENGTH)
+          ^^^^^^^^^^^^^^^
+NameError: name 'MAX_LINE_LENGTH' is not defined
+Exit status = 1

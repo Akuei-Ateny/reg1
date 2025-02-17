@@ -3,15 +3,13 @@
 
 """Registrar application: show overviews of classes."""
 
-
 import sys
 import argparse
 import textwrap
 from database import get_class_overviews, DatabaseError
 
 
-
-
+MAX_LINE_LENGTH = 72
 def parse_args():
    """Parse command line arguments.
 
@@ -32,7 +30,6 @@ def parse_args():
    args = parser.parse_args()
    return args
 
-
 def format_output(rows):
    """Format the output as a table with wrapped text.
 
@@ -41,28 +38,24 @@ def format_output(rows):
        rows (list): List of tuples containing class data
    """
 
-
    if not rows:
        return
 
-
    print('ClsId Dept CrsNum Area Title')
    print('----- ---- ------ ---- -----')
-
 
    for row in rows:
        classid, dept, coursenum, area, title = row
 
 
-       line = f'{classid:5} {dept:4} {coursenum:6} {area:4} {title}'
-       wrapped = textwrap.wrap(line, width=72, subsequent_indent=' ' * 23)
+       line = '%5s %4s %6s %4s %s' % (classid, dept, coursenum, area, title)
+       wrapped = textwrap.wrap(line, width=MAX_LINE_LENGTH, subsequent_indent=' ' * 23)
        print('\n'.join(wrapped))
 
 
 def main():
    """Main function to run the program."""
    args = parse_args()
-
 
    try:
        rows = get_class_overviews(args.d, args.n, args.a, args.t)
@@ -71,7 +64,6 @@ def main():
    except DatabaseError as error:
        print(f"{sys.argv[0]}: {str(error)}", file=sys.stderr)
        sys.exit(1)
-
 
 if __name__ == '__main__':
    main()
